@@ -45,7 +45,7 @@ This repository documents the complete launch strategy for **Branded Optics**, a
 
 ## 🧠 Why It Stands Out
 
-This project blends creativity with strategy—built around local culture, Gen Z behavior, and visual storytelling. From brand building to technical execution, every piece is crafted to deliver value, trust, and engagement.
+This project blends creativity with strategy—built around local culture and visual storytelling. From brand building to technical execution, every piece is crafted to deliver value, trust, and engagement.
 
 ---
 
